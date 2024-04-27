@@ -1,0 +1,111 @@
+.navbar {
+    display: flex;
+}
+
+
+
+.home {
+    width: 75px;
+    height: 25px;
+    background-color: crimson;
+    border: 0.5px solid black;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    text-align: center;
+    
+  }
+
+.resume {
+    width: 75px;
+    height: 25px;
+    background-color:  crimson;
+    border: 0.5px solid black;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    text-align: center;
+  }
+
+.gallery {
+    width: 75px;
+    height: 25px;
+    background-color:  crimson;
+    border: 0.5px solid black;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    text-align: center;
+  }
+.contact {
+    width: 75px;
+    height: 25px;
+    background-color:  crimson;
+    border: 0.5px solid black;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    text-align: center;
+  }
+
+.row{
+    width: 1500px;
+   height: 350px; 
+   background-color: gray;
+   border: 0.5px solid black;
+   color: white;
+   display: block;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+}
+
+h1:hover{
+  font-size: 50px;
+}
+
+h2{
+  text-align: center;
+}
+
+h2:hover{
+  font-size: 35px;
+}
+
+.photo{
+  width: 300px;
+  display: block;
+  float: right;
+  margin-top: -175px;
+  margin-right: 75px;
+}
+
+h3{
+  color: black;
+  text-align: left;
+  border: black
+}
+p{
+  text-align: center;
+}
+
+.columns{
+  column-count: 3;
+  row-gap: 0;
+}
+
+h4{
+  border: 0.5px solid black ;
+  border-right: white; 
+  border-left: white;
+}
+.skills{
+  border: 0.5px solid black ;
+}
+
+h4:hover{
+background-color: red;
+}
+
+h5{
+  text-align: center;
+}
+
